@@ -24,6 +24,7 @@ SubSim.sh.*
 */*/*/*/SubSim.sh.*
 
 # Ignore all pycache folders
+__pycache*
 */__pycache*
 */*/__pycache*
 
