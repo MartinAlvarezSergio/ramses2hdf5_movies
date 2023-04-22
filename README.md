@@ -1,5 +1,5 @@
 # ramses2hdf5_movies
-
+11;rgb:1e1e/1e1e/1e1e11;rgb:1e1e/1e1e/1e1e
 This code compiles RAMSES standard movie files in format ".map" into a single HDF5 file.
 In its current state, it only combines a single movie snapshot into each file. 
 
@@ -9,7 +9,6 @@ multiple movie files.
 
 ## Table of Contents
 
-- [Project Title](#project-title)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,7 +18,7 @@ multiple movie files.
 
 While the python code requires no installations, I have included a short python executable compiler to allow use without invoking python.
 
-## Usage
+## Usage
 
 Please review the code internal configuration prior to your first execution to make sure no major RAMSES changes affect the usability of this code. You can find this at the top of combine_movies.py
 
