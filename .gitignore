@@ -1,0 +1,45 @@
+# Ignore all temporary and safety files
+*~
+*/#*
+
+# Ignore VScode configuration
+.vscode/
+
+# Ignore all ipy checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Ignore all image files
+*png
+*/*png
+*/*/*png
+*/*/*/*png
+*/*/*/*/*png
+
+# Ignore all log files
+SubSim.sh.*
+*/SubSim.sh.*
+*/*/SubSim.sh.*
+*/*/*/SubSim.sh.*
+*/*/*/*/SubSim.sh.*
+
+# Ignore all pycache folders
+*/__pycache*
+*/*/__pycache*
+
+# Ignore all results folder
+*/Results
+
+# Ignore executables
+*out
+
+# Ignore logs and data files
+*log
+*dat
+
+# Other ignores
+*.hgignore
+
+# Ignore POLARIS command files
+*.cmd
+*/*.cmd
