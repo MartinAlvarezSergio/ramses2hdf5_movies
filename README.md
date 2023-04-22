@@ -1,5 +1,5 @@
 # ramses2hdf5_movies
-11;rgb:1e1e/1e1e/1e1e11;rgb:1e1e/1e1e/1e1e
+
 This code compiles RAMSES standard movie files in format ".map" into a single HDF5 file.
 In its current state, it only combines a single movie snapshot into each file. 
 
